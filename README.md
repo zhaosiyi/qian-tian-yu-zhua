@@ -19,9 +19,9 @@
 
 # 相关资料
 
-- Ant Design 文档：https://ant.design/index-cn（大部分 UI 组件从这里找资料）
-- Ant Design Pro 文档：https://pro.ant.design/index-cn（表格组件从这里找资料）
-- Umi 文档：https://umijs.org/（框架部分从这里找）
+- Ant Design 文档：https://ant.design/index-cn （大部分 UI 组件从这里找资料）
+- Ant Design Pro 文档：https://pro.ant.design/index-cn （表格组件从这里找资料）
+- Umi 文档：https://umijs.org/ （框架部分从这里找）
 - React 文档：https://react.docschina.org/
 - npm 文档：https://www.npmjs.cn/
 
