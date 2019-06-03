@@ -38,7 +38,3 @@ npm install
 之后按照文档安装 umi 。
 
 输入 npm start 进行调试，输入 npm run build 进行构建。
-
-# 其他
-
-有问题再联系。目前已知 bug 为图表有溢出现象，之后修改。
